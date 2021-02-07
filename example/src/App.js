@@ -1,10 +1,15 @@
 import React from 'react'
 
-import { ExampleComponent } from 'screen-effect'
+import { ExampleComponent, EffectScreen } from 'screen-effect'
 import 'screen-effect/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return (
+    <div>
+      <ExampleComponent text='Create React Library Example 😄' />
+      <EffectScreen icon='😆' />
+    </div>
+  )
 }
 
 export default App
