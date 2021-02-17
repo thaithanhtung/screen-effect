@@ -15,12 +15,12 @@ npm install --save screen-effect
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'screen-effect'
+import EffectScreen from 'screen-effect'
 import 'screen-effect/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <EffectScreen />
   }
 }
 ```

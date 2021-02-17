@@ -1,10 +1,10 @@
 {
   "name": "screen-effect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "screen effect react",
   "author": "TungThai",
   "license": "MIT",
-  "repository": "TungThai/screen-effect",
+  "repository": "thaithanhtung/screen-effect",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
