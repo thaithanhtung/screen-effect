@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/screen-effect.svg)](https://www.npmjs.com/package/screen-effect) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-link demo: [https://thaithanhtung.github.io/screen-effect](#https://thaithanhtung.github.io/screen-effect)]
+link demo: [https://thaithanhtung.github.io/screen-effect](#https://thaithanhtung.github.io/screen-effect)
 
 ## Install
 
